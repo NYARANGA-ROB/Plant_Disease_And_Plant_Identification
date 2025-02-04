@@ -38,7 +38,4 @@ TODO:
 2. Add detection for Weeds
 3. Results more accurate
 
-## Collaborators:
 
-- https://github.com/Anand-Singh-techie
-- https://github.com/indskgit
